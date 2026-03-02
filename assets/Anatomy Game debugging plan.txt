@@ -1,0 +1,10 @@
+﻿Anatomy Game debugging plan
+
+
+The following is a plan for the process of debugging the anatomy game website built in class, taking into account the bugs of: 1. Stackable dropables into one section (heart + lungs in one “organ”), 2. Non functioning Restart button.
+
+
+1. Revision of the code document: if the code language has an internal error, or most probably a lack of command for the operations needed for the debugging, this is where that will come into place when revising. 
+2. Assessing the first bug: it can be interpreted from the beginning that the issue for this bug is in the Javascript language, as it possibly doesn’t establish a limit for the amount of dropables that a section can be filled with.
+3. Assessing the second bug: In this case, it will be necessary the inclusion of a new asset to reconfigure everything back to its origin place instead of making an edition to an already existent feature, since the Restart button is already showcase, but it is not functional.
+4. Check: a final revision will be done in order to clarify the functionality and success of the debugging and prevent new unspoken errors from rising into the gameplay.
